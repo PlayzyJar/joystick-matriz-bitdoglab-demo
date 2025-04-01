@@ -29,6 +29,6 @@ VSCode, PicoSDK, CMake, Ninja, C/C++
 ```
 
 ### Contato p/ dúvidas: 
-gmail: carloseliasf146@gmail.com
-instagram: @carloseliasf
-linkedin: https://www.linkedin.com/in/carlos-elias-9bb397240/
+- **Gmail:** carloseliasf146@gmail.com
+- **Instagram:** @carloseliasf
+- **Linkedin:** https://www.linkedin.com/in/carlos-elias-9bb397240/
