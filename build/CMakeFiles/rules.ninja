@@ -93,7 +93,7 @@ rule ASM_COMPILER__bs2_default_library_unscanned_Release
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\Elias\.pico-sdk\cmake\v3.31.5\bin\cmake.exe --regenerate-during-build -S"C:\Users\Elias\OneDrive\Documentos\Projeto BigDogLab\joystick-matriz-bitdoglab-demo" -B"C:\Users\Elias\OneDrive\Documentos\Projeto BigDogLab\joystick-matriz-bitdoglab-demo\build"
+  command = C:\Users\Elias\.pico-sdk\cmake\v3.31.5\bin\cmake.exe --regenerate-during-build -SC:\Users\Elias\OneDrive\Documentos\GitHub\joystick-matriz-bitdoglab-demo -BC:\Users\Elias\OneDrive\Documentos\GitHub\joystick-matriz-bitdoglab-demo\build
   description = Re-running CMake...
   generator = 1
 
